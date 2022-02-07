@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69853804410",
+    "project_id": "redbitapp",
+    "storage_bucket": "redbitapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69853804410:android:c60763f2df3cc07d6c88c3",
+        "android_client_info": {
+          "package_name": "com.redbitdev.redbitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69853804410-4shimn3qdl8dfrjph95rp18o9lo0128m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_JQJOsS2Bf516ljpw7HbPuHPm_QjZKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69853804410-4shimn3qdl8dfrjph95rp18o9lo0128m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
