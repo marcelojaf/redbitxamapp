@@ -19,7 +19,8 @@
                 </FormattedString>
             </Label.FormattedText>
         </Label>
-        <Label x:Name="lblNotification"/>
+        <Label x:Name="lblClick" Text="0"/>
+        <Button Text="Click me!" x:Name="btnClick" Padding="10" Clicked="btnClick_Clicked"></Button>
     </StackLayout>
 
 </ContentPage>

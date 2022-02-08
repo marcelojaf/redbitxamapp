@@ -18,7 +18,6 @@ namespace RedBit_App.Droid
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
-            FirebaseApp.InitializeApp(this);
 
             LoadApplication(new App());
             FirebasePushNotificationManager.ProcessIntent(this, Intent);
